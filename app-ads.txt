@@ -1,0 +1,8 @@
+# app-ads.txt — DarkLab Games
+# Authorised digital sellers for the DarkLab Games mobile apps (IAB Tech Lab spec).
+# Publisher ID taken from the AdMob app id ca-app-pub-6241726601811917~5736926840.
+#
+# MUST be served from the ROOT of the domain listed as the developer website
+# on the Google Play listing, e.g. https://yourname.github.io/app-ads.txt
+# A project-pages URL such as /voidstrike/app-ads.txt will NOT be crawled.
+google.com, pub-6241726601811917, DIRECT, f08c47fec0942fa0
